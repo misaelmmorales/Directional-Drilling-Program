@@ -14,4 +14,4 @@ We compute the drag and torque forces acting on the simulated drilling trajector
 
 **Completions & Casing Check**
 The user can specifiy up to 9 possible casing types, and we compute the burst-collapse design lines, and perform checks for each casign at each depth, to select the best possible well completions design.
-<img src="https://github.com/misaelmmorales/Directional-Drilling-Program/blobl/main/tool_3.png">
+<img src="https://github.com/misaelmmorales/Directional-Drilling-Program/blob/main/images/tool_3.png">
